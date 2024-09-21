@@ -1,0 +1,9 @@
+google-api-python-client 
+pytube 
+opencv-python
+youtube-search-python 
+beautifulsoup4 
+requests
+pyautogui
+
+# AIzaSyASk-w_tFF4MIHoF4eRIvL6I3GJZFWeUMA
