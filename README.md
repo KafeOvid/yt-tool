@@ -32,30 +32,6 @@ To install **yt-tool**, follow these steps:
 
 ## Usage
 
-To use **yt-tool**, run the following command in your terminal:
-
-```bash
-python yt_tool.py [options] <URL>
-```
-
-### Options
-
-- `-d`, `--download`: Download a video or playlist.
-- `-f`, `--format`: Specify the format (e.g., mp4, mp3).
-- `-q`, `--quality`: Set the quality (e.g., 720p, 1080p).
-
-### Examples
-
-1. Download a single video:
-   ```bash
-   python yt_tool.py --download --format mp4 --quality 720p <VIDEO_URL>
-   ```
-
-2. Download a playlist:
-   ```bash
-   python yt_tool.py --download <PLAYLIST_URL>
-   ```
-
 ## Contributing
 
 Contributions are welcome! To contribute to **yt-tool**, please follow these steps:
